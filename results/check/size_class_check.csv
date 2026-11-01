@@ -1,0 +1,4 @@
+size_class,aggregates,median_hand_cells,fewest_hand_cells,most_hand_cells
+single_cell,221,1.0,0.0,2.0
+small_clump,195,2.0,1.0,7.0
+large_clump,47,9.0,5.0,35.0
