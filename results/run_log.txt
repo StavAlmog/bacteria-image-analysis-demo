@@ -1,0 +1,15 @@
+Run finished: 2026-11-01 11:48
+Input folder: data/images
+Images found: 12
+Images analysed: 12
+Images skipped: 0
+Images with no cells found: 0
+Aggregates found: 590
+
+Settings:
+  PIXEL_SIZE_UM = 0.08
+  SMOOTHING = 1
+  MIN_AREA_PX = 30
+  MAX_HOLE_PX = 100
+  SINGLE_CELL_MAX_UM2 = 2.0
+  SMALL_CLUMP_MAX_UM2 = 8.0
