@@ -1,0 +1,10 @@
+# Downloaded images: get them again with  python download_data.py
+data/
+
+# Python cache files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Jupyter auto-saves
+.ipynb_checkpoints/
